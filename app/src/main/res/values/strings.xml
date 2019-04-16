@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroViewPager</string>
+    <string name="first_des">This is First Fragment Description</string>
+    <string name="first_title">First Title</string>
+    <string name="second_title">Second Title</string>
+    <string name="second_des">This is Second Fragment Description</string>
+</resources>
